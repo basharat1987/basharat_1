@@ -6,3 +6,4 @@ saturday
 sunday
 monday
 tuesday
+wednesday
